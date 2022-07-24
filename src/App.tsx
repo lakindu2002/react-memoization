@@ -1,6 +1,5 @@
 import './App.css';
-import { Input } from './components/render-issue/input/input';
-import { Parent } from './components/use-callback/parent-child';
+import { Parent } from './components/use-memo/demo';
 
 function App() {
   return (
